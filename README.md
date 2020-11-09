@@ -1,1 +1,2 @@
-# Project-42
+# MatterJSBoilerPlate
+MatterJSBoilerPlate
